@@ -71,10 +71,17 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Family Guy, not the show you guys
+                  Oh, I bid fairwell to the port and the land
                     </h4>
                   <p className="m-0 text-sm">
-                    I have 8 siblings (I'm the middle child), 2 awesome parents, and I wouldn't trade it for anything
+                    And I paddle away from brave England's white sands
+To search for my long ago forgotten friends
+To search for the place I hear all sailors end
+As the souls of the dead fill the space of my mind
+I'll search without sleeping 'til peace I can find
+I fear not the weather, I fear not the sea
+I remember the fallen, do they think of me?
+When their bones in the ocean forever will be
                     </p>
                 </div>
               </div>
@@ -115,10 +122,16 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Boom.
+                  Obi-Wan Kenobi: You have allowed this dark lord to twist your mind, until now... until now you've become the very thing you swore to destroy.
                     </h4>
                   <p className="m-0 text-sm">
-                    Bam. Bop. Badda-bop-boom. Pow. OHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!
+                  Anakin Skywalker: Don't lecture me, Obi-Wan! I see through the lies of the Jedi. I do not fear the dark side as you do. I have brought peace, freedom, justice, and security to my new Empire.
+Obi-Wan Kenobi: Your new empire?
+Anakin Skywalker: Don't make me kill you.
+Obi-Wan Kenobi: Anakin, my allegiance is to the Republic, to democracy!
+Anakin Skywalker: If you're not with me, then you're my enemy.
+Obi-Wan Kenobi: Only a Sith deals in absolutes. I will do what I must.
+Anakin Skywalker: You will try.
                     </p>
                 </div>
               </div>
@@ -137,17 +150,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Oh, I bid fairwell to the port and the land
+                    Family Guy, but not the show lol
                     </h4>
                   <p className="m-0 text-sm">
-                  And I paddle away from brave England's white sands
-To search for my long ago forgotten friends
-To search for the place I hear all sailors end
-As the souls of the dead fill the space of my mind
-I'll search without sleeping 'til peace I can find
-I fear not the weather, I fear not the sea
-I remember the fallen, do they think of me?
-When their bones in the ocean forever will be
+                  I have 8 siblings (I'm the middle child), 2 awesome parents, and I wouldn't trade it for anything
 
                     </p>
                 </div>
@@ -167,16 +173,10 @@ When their bones in the ocean forever will be
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  Obi-Wan Kenobi: You have allowed this dark lord to twist your mind, until now... until now you've become the very thing you swore to destroy.
+                   Boom Bam Bop.
                     </h4>
                   <p className="m-0 text-sm">
-                  Anakin Skywalker: Don't lecture me, Obi-Wan! I see through the lies of the Jedi. I do not fear the dark side as you do. I have brought peace, freedom, justice, and security to my new Empire.
-Obi-Wan Kenobi: Your new empire?
-Anakin Skywalker: Don't make me kill you.
-Obi-Wan Kenobi: Anakin, my allegiance is to the Republic, to democracy!
-Anakin Skywalker: If you're not with me, then you're my enemy.
-Obi-Wan Kenobi: Only a Sith deals in absolutes. I will do what I must.
-Anakin Skywalker: You will try.
+                  Bada-Bop-Boom. Pow. OHHHHHHHH!!!!!
                     </p>
                 </div>
               </div>

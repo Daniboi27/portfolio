@@ -71,10 +71,10 @@ const Hero = ({
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" className="banana" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
-                    Get Beaned
+                    Wowzers
                     </Button>
                   <Button tag="a" color="primary" className="banana" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
-                    Stinko Binko
+                    PogU
                     </Button>
                 </ButtonGroup>
               </div>
@@ -91,7 +91,7 @@ const Hero = ({
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
                 alt="Hero"
-                width={700}
+                width={650}
                 height={504} />
             </a>
           </div>

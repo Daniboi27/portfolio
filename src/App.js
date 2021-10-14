@@ -12,9 +12,13 @@ import LayoutDefault from './layouts/LayoutDefault';
 // Views 
 import Home from './views/Home';
 import EasterEgg from './views/EasterEgg';
+import Contact from './views/Contact';
+import FAQ from './views/FAQ';
+import Support from './views/Support';
+import AboutUs from './views/AboutUs';
 
 // Initialize Google Analytics
-ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+ReactGA.initialize("G-BTFBWCGDHR");
 
 const trackPage = page => {
   ReactGA.set({ page });
@@ -41,6 +45,10 @@ const App = () => {
         <Switch>
           <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} />
           <AppRoute exact path="/portfolio/easter-egg" component={EasterEgg}/>
+          <AppRoute exact path="/portfolio/Support" component={Support}/>
+          <AppRoute exact path="/portfolio/FAQ" component={FAQ}/>
+          <AppRoute exact path="/portfolio/Contact" component={Contact}/>
+          <AppRoute exact path="/portfolio/AboutUs" component={AboutUs}/>
         </Switch>
       )} />
   );
